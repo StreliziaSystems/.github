@@ -12,14 +12,14 @@
 
 ###
 
-<h5 data-importer="text" align="left">StreliziaBOT: A Kotlin based Discord bot with nerdy references and fun commands.</h5>
+<p data-importer="text" align="left">StreliziaBOT: A Kotlin based Discord bot with nerdy references and fun commands.</p>
 
 ###
 
-<h2 data-importer="text" align="left">Who made all this?!</h2>
+<h1 data-importer="text" align="left">Who made all this?!</h2>
 
 ###
 
-<h5 data-importer="text" align="left">All of this is / was made by or4acle, a teenager learning how to code.</h5>
+<p data-importer="text" align="left">All of this is / was made by or4acle, a teenager learning how to code.</p>
 
 ###
