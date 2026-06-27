@@ -20,6 +20,6 @@
 
 ###
 
-<p data-importer="text" align="left">All of this is / was made by or4acle, a teenager learning how to code.</p>
+<p data-importer="text" align="left">All of this was made by or4acle, a teenager learning how to code.</p>
 
 ###
