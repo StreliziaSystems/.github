@@ -4,15 +4,13 @@
 
 ###
 
-<h4 data-importer="text" align="center">Random Java and Kotlin stuff</h4>
+<h4 data-importer="text" align="center">Random stuff</h4>
 
 ###
 
 <h1 data-importer="text" align="left">Projects</h1>
 
 ###
-
-<p data-importer="text" align="left">StreliziaBOT: A Kotlin based Discord bot with nerdy references and fun commands.</p>
 
 ###
 
